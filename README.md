@@ -2,25 +2,16 @@
 
 # Olá, eu sou o Reinaldo Fernandes! 👋
 
+### Um desenvolvedor frontend apaixonado do Brasil 🇧🇷
+
 <p>
-  Sou um **desenvolvedor frontend** apaixonado, com foco em criar experiências digitais intuitivas e dinâmicas. Atualmente, estou focado em aprimorar minhas habilidades com as mais recentes tecnologias e expandir meu conhecimento em desenvolvimento web.
+  Seja bem-vindo(a) ao meu perfil! <br>
+  Aqui você encontra um pouco sobre minhas habilidades e projetos.
 </p>
 
 ---
 
-### 🚀 Meus Projetos em Destaque
-
-<p>
-  Aqui estão alguns dos projetos em que mais me orgulho de ter trabalhado.
-</p>
-
-- [**Portfólio**](https://reinaldo-portifolio.vercel.app/) - Um showcase dos meus melhores trabalhos e habilidades como desenvolvedor.
-- [**Currículo Fácil**](https://curriculo-facil.vercel.app/) - Um projeto que ajuda usuários a criar um currículo profissional de forma rápida e simples.
-- [**Sistema de Barbearia**](https://reinaldo-fernandes.github.io/sistema-barbearia/) - Um sistema de gestão completo para agendamentos e serviços de barbearia.
-
----
-
-### 💻 Habilidades Técnicas
+### 💻 Minhas Habilidades
 
 <p>
   Tecnologias e ferramentas com as quais eu trabalho:
@@ -32,6 +23,14 @@
 
 ---
 
+### 🚀 Meus Projetos em Destaque
+
+- [**Portfólio**](https://reinaldo-portifolio.vercel.app/) - Um showcase dos meus melhores trabalhos e habilidades.
+- [**Currículo Fácil**](https://curriculo-facil.vercel.app/) - Um projeto que ajuda a criar currículos de forma simples e rápida.
+- [**Sistema de Barbearia**](https://reinaldo-fernandes.github.io/sistema-barbearia/) - Um sistema de gestão desenvolvido para barbearias.
+
+---
+
 ### 📊 Minhas Estatísticas do GitHub
 
 <p>
@@ -39,14 +38,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinaldo-fernandes&theme=gruvbox" alt="Troféus do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reinaldo-fernandes&show_icons=true&locale=en&layout=compact" alt="Principais Linguagens" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinaldo-fernandes" alt="Sequência de Contribuições" />
+  <br/>
+  <img src="https://github-contributions-api.jogruber.de/v4/Reinaldo-Fernandes.svg?theme=dark" alt="Seu Calendário de Contribuições do GitHub" />
 </div>
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Conecte-se Comigo
 
 <p>
   Você pode me encontrar e me seguir nessas plataformas.
