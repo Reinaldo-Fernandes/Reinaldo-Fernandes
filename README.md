@@ -1,63 +1,73 @@
-<div align="center">
+# 👋 Olá, eu sou o Reinaldo Fernandes  
 
-# Olá, eu sou o Reinaldo Fernandes! 👋
-
-<p>
-  Sou um **desenvolvedor frontend** apaixonado, com foco em criar experiências digitais intuitivas e dinâmicas. Atualmente, estou focado em aprimorar minhas habilidades com as mais recentes tecnologias e expandir meu conhecimento em desenvolvimento web.
-</p>
+💻 **Desenvolvedor Frontend** apaixonado por transformar ideias em experiências digitais intuitivas e dinâmicas.  
+Atualmente, estou focado em aprimorar minhas habilidades com as tecnologias mais recentes e expandir meu conhecimento em **desenvolvimento web**.
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+## 🚀 Sobre mim
 
-<p>
-  Aqui estão alguns dos projetos em que mais me orgulho de ter trabalhado.
-</p>
-
-- [**Portfólio**](https://reinaldo-portifolio.vercel.app/) - Um showcase dos meus melhores trabalhos e habilidades como desenvolvedor.
-- [**Currículo Fácil**](https://curriculo-facil.vercel.app/) - Um projeto que ajuda usuários a criar um currículo profissional de forma rápida e simples.
-- [**Sistema de Barbearia**](https://reinaldo-fernandes.github.io/sistema-barbearia/) - Um sistema de gestão completo para agendamentos e serviços de barbearia.
+- 🌎 Moro no Brasil  
+- 💡 Amo criar interfaces limpas, responsivas e agradáveis  
+- 📚 Estou sempre aprendendo mais sobre **JavaScript**, **CSS moderno** e **boas práticas de UI/UX**  
+- 🗃️ Tenho um pequeno conhecimento em **banco de dados**, o que me ajuda a entender melhor o lado backend dos projetos  
+- 🎯 Objetivo: evoluir constantemente como desenvolvedor e contribuir com projetos open-source  
 
 ---
 
-### 💻 Habilidades Técnicas
-
-<p>
-  Tecnologias e ferramentas com as quais eu trabalho:
-</p>
+## 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,python,firebase,mysql,dotnet,git" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+## 🌟 Meus Projetos em Destaque
 
-<p>
-  Uma visão geral sobre minha atividade e contribuições na plataforma.
-</p>
+### 🔹 [Portfólio](#)
+> Uma vitrine dos meus melhores trabalhos e habilidades como desenvolvedor.  
+> 💼 *HTML | CSS | JS*
+
+---
+
+### 🔹 [Currículo Fácil](#)
+> Um projeto que ajuda os usuários a criar um currículo profissional de forma rápida e simples.  
+> 📄 *HTML | CSS | JS*
+
+---
+
+### 🔹 [Sistema de Barbearia](#)
+> Um sistema de gestão completo para agendamentos e serviços de barbearia.  
+> 💈 *HTML | CSS | JS | Banco de Dados (básico)*
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reinaldo-fernandes&show_icons=true&locale=en&layout=compact" alt="Principais Linguagens" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinaldo-fernandes" alt="Sequência de Contribuições" />
+
+![Reinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinaldoFernandes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoFernandes&layout=compact&theme=tokyonight)
+
 </div>
 
 ---
 
-### 🤝 Conecte-se comigo
+## 📫 Como me encontrar
 
-<p>
-  Você pode me encontrar e me seguir nessas plataformas.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/reinaldo.f.menezes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+🌐 [Portfólio]([#](https://reinaldo-portifolio.vercel.app/)) • 💼 [LinkedIn](https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/) • 📧 {instagram] (https://www.instagram.com/reinaldo.f.menezes/)
 
 </div>
+
+---
+
+✨ _“O código é a arte de transformar lógica em magia.”_ ✨
