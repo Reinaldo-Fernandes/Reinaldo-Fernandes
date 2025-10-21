@@ -64,7 +64,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com as tecnologias mais
 
 <div align="center">
 
-🌐 [Portfólio]([#](https://reinaldo-portifolio.vercel.app/)) • 💼 [LinkedIn](https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/) • 📧 {instagram] (https://www.instagram.com/reinaldo.f.menezes/)
+🌐 [Portfólio]([#](https://reinaldo-portifolio.vercel.app/)) • 💼 [LinkedIn] [#](https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/) • 📧 {instagram][#](https://www.instagram.com/reinaldo.f.menezes/)
 
 </div>
 
