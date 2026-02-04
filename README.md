@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Fernandes&show_icons=true&theme=dracula&font_color=d4a373&bg_color=0a0a0a&hide_border=true" width="400" />
+ [ <img src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Fernandes&show_icons=true&theme=dracula&font_color=d4a373&bg_color=0a0a0a&hide_border=true" width="400" />](https://reinaldo-portifolio.vercel.app/)
 </p>
 
 ---
