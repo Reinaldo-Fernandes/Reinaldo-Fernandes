@@ -1,61 +1,57 @@
-# 👋 Olá, eu sou o Reinaldo Fernandes!
+# <p align="center"> ☕ Reinaldo Fernandes </p>
 
-Sou um **desenvolvedor frontend** apaixonado por transformar ideias em interfaces modernas, intuitivas e dinâmicas.  
-Atualmente, estou me dedicando a aprimorar minhas habilidades com as tecnologias mais recentes do desenvolvimento web.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Frontend_Developer-d4a373?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Creative_Technologist-333?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Reinaldo-Fernandes?label=Follow&style=social" />
+</p>
 
----
+<p align="center">
+  <b>Transformando café em interfaces fluidas e experiências digitais serenas.</b><br>
+  Desenvolvedor Full Stack em evolução, focado em arquiteturas limpas e design intuitivo.
+</p>
 
-## 🚀 Sobre mim
-
-- 💻 Foco em **HTML**, **CSS** e **JavaScript**  
-- 🧠 Conhecimento básico em **banco de dados**
-- 🌱 Sempre aprendendo e evoluindo no mundo do **desenvolvimento web**
-- 🎯 Objetivo: Criar experiências digitais que realmente façam a diferença
-
----
-
-## 🧩 Meus Projetos em Destaque
-
-### 🖼️ [Portfólio](https://reinaldo-portifolio.vercel.app/)
-> Uma vitrine dos meus melhores trabalhos e habilidades como desenvolvedor frontend.
-
-### 📄 Currículo Fácil
-> Um projeto que ajuda usuários a criar um currículo profissional de forma rápida e simples.
-
-### 💈 Sistema de Barbearia
-> Um sistema de gestão completo para agendamentos e serviços de barbearia.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Fernandes&show_icons=true&theme=dracula&font_color=d4a373&bg_color=0a0a0a&hide_border=true" width="400" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+### 🚀 Sobre a minha jornada
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 🛠️ **Foco Atual:** Construção de interfaces reativas e animações matemáticas (Three.js).
+- 🧠 **Stack:** Especialista em traduzir layouts complexos para **HTML/CSS/JS** de alta performance.
+- 🌱 **Evolução:** Expandindo horizontes em **Python** e arquitetura de **Bancos de Dados**.
+- 🎯 **Mindset:** "O equilíbrio entre a lógica do código e a sensibilidade do design."
 
+---
+
+### 🧩 Projetos em Destaque
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **✨ Portfólio Tech** | Interface imersiva com animações de ondas senoidais. | [Acessar](https://reinaldo-portifolio.vercel.app/) |
+| **📄 Currículo Fácil** | Gerador dinâmico de documentos profissionais. | [Acessar](https://curriculo-facil.vercel.app/) |
+| **💈 Barber System** | Gestão de agendamentos com foco em UX. | [Acessar](https://reinaldo-fernandes.github.io/sistema-barbearia/) |
+
+---
+
+### 🛠️ Toolbox Tecnológica
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,git,github,vscode,vercel&theme=dark" />
 </div>
 
 ---
 
-## 📬 Onde me encontrar
+### 📬 Conecte-se comigo
 
-<div align="center">
+<p align="left">
+<a href="https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/reinaldo.f.menezes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-d4a373?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
-[🌐 **Portfólio**](https://reinaldo-portifolio.vercel.app/)  [💼 **LinkedIn**](https://www.linkedin.com/in/reinaldo-fernandes-4a639a2b1/)  [📸 **Instagram**](https://www.instagram.com/reinaldo.f.menezes/)
-
-</div>
-
----
-
-## ✨ Curiosidades
-
-- 🎨 Gosto de unir **design e código** para criar experiências visuais únicas.  
-- 🧩 Adoro desafios que me façam sair da zona de conforto.  
-- ⚡ Estou sempre explorando novas ferramentas e frameworks!
-
----
-
-⭐️ **“Construindo o futuro, uma linha de código por vez.”**
+<p align="center">
+  <i>"Construindo o futuro, uma linha de código por vez."</i>
+</p>
