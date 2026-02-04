@@ -1,4 +1,4 @@
-# <p align="center"> ☕ Reinaldo Fernandes </p>
+## <p align="center"> ☕ Reinaldo Fernandes </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Frontend_Developer-d4a373?style=flat-square" />
@@ -10,6 +10,7 @@
   <b>Transformando café em interfaces fluidas e experiências digitais serenas.</b><br>
   Desenvolvedor Full Stack em evolução, focado em arquiteturas limpas e design intuitivo.
 </p>
+
 ---
 
 ### 🚀 Sobre a minha jornada
