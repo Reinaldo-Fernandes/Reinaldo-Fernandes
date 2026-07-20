@@ -29,7 +29,7 @@
 | **✨ Portfólio Tech** | Interface imersiva com animações de ondas senoidais. | [Acessar](https://reinaldo-portifolio.vercel.app/) |
 | **📄 Currículo Fácil** | Gerador dinâmico de documentos profissionais. | [Acessar](https://curriculo-facil.vercel.app/) |
 | **💈 Barber System** | Gestão de agendamentos com foco em UX. | [Acessar](https://reinaldo-fernandes.github.io/sistema-barbearia/) |
-| **🌐 MindShere ** | MindSphere é um ecossistema de produção focado em neurodivergência. Um método Pomodoro que elimina a pressão tradicional, criando um espaço para florescer. | [Acessar](https://mindsphere-xi.vercel.app/) |
+| **🌐 MindShere** | MindSphere é um ecossistema de produção focado em neurodivergência. Um método Pomodoro que elimina a pressão tradicional, criando um espaço para florescer. | [Acessar](https://mindsphere-xi.vercel.app/) |
 ---
 
 ### 🛠️ Toolbox Tecnológica
